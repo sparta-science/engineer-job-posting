@@ -1,6 +1,6 @@
-##Full Stack Engineer
+## Full Stack Engineer
 
-####San Francisco, CA
+#### San Francisco, CA
 
 Sparta Science can predict injuries before they happen. We identify athletes’ injury risks and recommend customized 
 training plans to reduce the chance of injury. Our customers are professional and university sports programs (including 
