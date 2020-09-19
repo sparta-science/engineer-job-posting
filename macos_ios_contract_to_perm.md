@@ -26,7 +26,11 @@ Our macOS/IOS ambitions cover all the bases:
 
  * Our app integrates with Sparta, 3rd party and customer systems to allow large scale
    adoption.
- 
+
+We are reimplementing our client app with many new features in macOS/swift. As of this writing
+we have a small wrapper app and a couple of prototypes in process. _This is an all new
+code base._
+
 The pandemic has temporarily changed how we hire. 
 For now this is a contract position. Eventually the pandemic will end and we may want to
 convert this contract role into regular full time employment.
