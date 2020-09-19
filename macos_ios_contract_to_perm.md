@@ -1,5 +1,5 @@
 ## macOS/IOS Engineer (Swift)- [Sparta Science](https://www.spartascience.com)
-#### Remote
+#### Remote Work During **Pacific Time Hours**
 
 Sparta Science helps the world move better. We identify injury risks and recommend
 customized training plans to reduce the chance of injury. Our customers are professional
