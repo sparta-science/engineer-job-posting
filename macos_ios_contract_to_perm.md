@@ -1,5 +1,5 @@
 ## macOS/IOS Engineer (Swift)- [Sparta Science](https://www.spartascience.com)
-#### Remote Work During **Pacific Time Hours**
+#### Contract / Remote Work During **Pacific Time Hours**
 
 Sparta Science helps the world move better. We identify injury risks and recommend
 customized training plans to reduce the chance of injury. Our customers are professional
@@ -31,9 +31,9 @@ We are reimplementing our client app with many new features in macOS/swift. As o
 we have a small wrapper app and a couple of prototypes in process. _This is an all new
 code base._
 
-The pandemic has temporarily changed how we hire. 
-For now this is a contract position. Eventually the pandemic will end and we may want to
-convert this contract role into regular full time employment.
+***The pandemic has temporarily changed how we hire. 
+For now THIS IS A CONTRACT POSITION. Eventually the pandemic will end and we MAY want to
+convert this contract role into regular full time employment.***
 
 #### What you’ll bring to the table
 
