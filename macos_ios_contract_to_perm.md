@@ -5,8 +5,8 @@ Sparta Science helps the world move better. We identify injury risks and recomme
 customized training plans to reduce the chance of injury. Our customers are professional
 and university sports, elite and conventional military, insurance and employers.
 
-We are looking for macOS/IOS contract engineers to help our mac team build customer facing
-applications and to pair with other developers new to the macOS/IOS swift world.
+We are looking for 1 or more macOS/IOS CONTRACT engineers to help our mac team build customer 
+facing applications and to pair with other developers new to the macOS/IOS swift world.
 
 Our macOS/IOS ambitions cover all the bases:
 
