@@ -53,4 +53,4 @@ convert this contract role into regular full time employment.***
 We believe in working at a sustainable pace—you’ll typically code for 8 hours each day, and then you’re off to relax, 
 recharge, and refocus.
 
-Contact: [engineer-jobs@spartascience.com](mailto:engineer-jobs@spartascience.com)
+Contact: <sparta.science.macos.dev@gmail.com>
