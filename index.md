@@ -12,5 +12,5 @@ the technologies listed below.
 If you are skilled in any of these technologies, please introduce yourself at
 <sparta.engineering.jobs@gmail.com>.
 
-[1]: www.spartascience.com
+[1]: https://spartascience.com/
 
